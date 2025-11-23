@@ -1,0 +1,9 @@
+[authorization]
+api_id = api id
+api_hash = "api hash"
+
+[locale]
+lang = "ru"
+
+[raid]
+message = "repeat text"
